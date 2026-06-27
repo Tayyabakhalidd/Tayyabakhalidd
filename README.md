@@ -10,13 +10,20 @@
 
 ---
 
-## ⚡ Expertise
+
 
 <div align="center">
 
-| 🐍 Python | ⚙️ n8n | 🤖 AI Chatbots | 🔁 Automation |
-|:---:|:---:|:---:|:---:|
-| 🧠 AI Agents | 📄 RAG Pipelines | ✍️ Prompt Engineering | 🔗 LLM Integration |
+## ⚡ Expertise
+
+![Python](https://img.shields.io/badge/🐍_Python-9B59B6?style=for-the-badge&logoColor=white)
+![n8n](https://img.shields.io/badge/⚙️_n8n-8E44AD?style=for-the-badge&logoColor=white)
+![AI Chatbots](https://img.shields.io/badge/🤖_AI_Chatbots-7D3C98?style=for-the-badge&logoColor=white)
+![Automation](https://img.shields.io/badge/🔁_Automation-6C3483?style=for-the-badge&logoColor=white)
+![AI Agents](https://img.shields.io/badge/🧠_AI_Agents-9B59B6?style=for-the-badge&logoColor=white)
+![RAG Pipelines](https://img.shields.io/badge/📄_RAG_Pipelines-8E44AD?style=for-the-badge&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/✍️_Prompt_Engineering-7D3C98?style=for-the-badge&logoColor=white)
+![LLM Integration](https://img.shields.io/badge/🔗_LLM_Integration-6C3483?style=for-the-badge&logoColor=white)
 
 </div>
 
