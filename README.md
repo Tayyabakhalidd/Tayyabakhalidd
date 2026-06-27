@@ -12,16 +12,12 @@
 
 ## 🧠 About Me
 
-![AI Developer](https://img.shields.io/badge/AI_Developer-9B59B6?style=flat-square&logoColor=white)
-![CS Graduate](https://img.shields.io/badge/CS_Graduate-8E44AD?style=flat-square&logoColor=white)
-![AI Product Management](https://img.shields.io/badge/AI_Product_Management-7D3C98?style=flat-square&logoColor=white)
+
 
 > 💬 Building intelligent workflow systems with **n8n**, **AI agents**, **RAG pipelines**, and **Python**.
 > Actively developing real-world AI projects and expanding into Python development.
 
-![Building](https://img.shields.io/badge/🔨_Building-AI_Systems-9B59B6?style=flat-square&logoColor=white)
-![Learning](https://img.shields.io/badge/📚_Learning-Advanced_Python-8E44AD?style=flat-square&logoColor=white)
-![Open To](https://img.shields.io/badge/🌍_Open_To-Remote_Opportunities-7D3C98?style=flat-square&logoColor=white)
+
 
 ---
 
